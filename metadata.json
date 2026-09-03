@@ -1,0 +1,11 @@
+{
+  "name": "NEO Live Room",
+  "description": "Modern Live Chat, Live Room, Social Community, and Creator Earning Platform for Android with real-time streaming, interactive virtual gifts, wallet ledger, and creator monetization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

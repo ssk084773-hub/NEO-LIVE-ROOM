@@ -1,0 +1,22 @@
+{
+  "short_name": "NEO Live",
+  "name": "NEO Live Room - Live Chat & Stream",
+  "description": "Modern Live Chat, Live Room, Social Community, and Creator Earning Platform",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "display": "standalone",
+  "orientation": "portrait"
+}

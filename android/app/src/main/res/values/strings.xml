@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEO Live Room</string>
+    <string name="go_live">Go Live</string>
+    <string name="recharge">Recharge</string>
+    <string name="send_gift">Send Gift</string>
+</resources>
