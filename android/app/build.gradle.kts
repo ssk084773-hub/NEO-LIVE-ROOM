@@ -108,7 +108,7 @@ dependencies {
 
     // Coroutines
     implementation(libs.kotlinx.coroutines.android)
-    implementation(libs.kotlinx.coroutines.play_services)
+    implementation(libs.kotlinx.coroutines.play.services)
 
     // Unit & UI Testing
     testImplementation(libs.junit)
